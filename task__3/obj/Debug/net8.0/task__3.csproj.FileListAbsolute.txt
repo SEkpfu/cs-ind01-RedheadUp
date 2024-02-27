@@ -1,0 +1,14 @@
+D:\KFU\C#\task__3\bin\Debug\net8.0\task__3.exe
+D:\KFU\C#\task__3\bin\Debug\net8.0\task__3.deps.json
+D:\KFU\C#\task__3\bin\Debug\net8.0\task__3.runtimeconfig.json
+D:\KFU\C#\task__3\bin\Debug\net8.0\task__3.dll
+D:\KFU\C#\task__3\bin\Debug\net8.0\task__3.pdb
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.GeneratedMSBuildEditorConfig.editorconfig
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.AssemblyInfoInputs.cache
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.AssemblyInfo.cs
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.csproj.CoreCompileInputs.cache
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.dll
+D:\KFU\C#\task__3\obj\Debug\net8.0\refint\task__3.dll
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.pdb
+D:\KFU\C#\task__3\obj\Debug\net8.0\task__3.genruntimeconfig.cache
+D:\KFU\C#\task__3\obj\Debug\net8.0\ref\task__3.dll
