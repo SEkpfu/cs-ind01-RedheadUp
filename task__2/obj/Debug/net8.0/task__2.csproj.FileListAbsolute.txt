@@ -1,0 +1,14 @@
+D:\KFU\C#\task__2\bin\Debug\net8.0\task__2.exe
+D:\KFU\C#\task__2\bin\Debug\net8.0\task__2.deps.json
+D:\KFU\C#\task__2\bin\Debug\net8.0\task__2.runtimeconfig.json
+D:\KFU\C#\task__2\bin\Debug\net8.0\task__2.dll
+D:\KFU\C#\task__2\bin\Debug\net8.0\task__2.pdb
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.AssemblyInfoInputs.cache
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.AssemblyInfo.cs
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.csproj.CoreCompileInputs.cache
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.dll
+D:\KFU\C#\task__2\obj\Debug\net8.0\refint\task__2.dll
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.pdb
+D:\KFU\C#\task__2\obj\Debug\net8.0\task__2.genruntimeconfig.cache
+D:\KFU\C#\task__2\obj\Debug\net8.0\ref\task__2.dll
